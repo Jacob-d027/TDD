@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  SOLID Principles
+//  Fake, Mock, Stub
 //
-//  Created by Jacob Davis on 1/30/24.
+//  Created by Jacob Davis on 1/31/24.
 //
 
 import SwiftUI
